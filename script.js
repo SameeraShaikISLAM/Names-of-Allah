@@ -9,7 +9,7 @@ const names = [
   { arabic: "العزيز", transliteration: "Al-Aziz", meaning: "The Almighty, The Invincible" },
   { arabic: "الجبار", transliteration: "Al-Jabbar", meaning: "The Compeller, The Restorer" },
   { arabic: "المتكبر", transliteration: "Al-Mutakabbir", meaning: "The Supreme in Greatness" },
-  // You can continue adding all 99 names here...
+
 ];
 
 let currentIndex = 0;
